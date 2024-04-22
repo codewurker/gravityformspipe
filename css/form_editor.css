@@ -1,0 +1,17 @@
+#gform_fields li.piperecorder_options_setting ul li {
+	padding: 0;
+}
+
+#piperecorder_width,
+#piperecorder_height,
+#piperecorder_recording_time {
+	width: 100%;
+}
+
+.gf-pipe-recorder-preview {
+	display: block;
+}
+
+.gform-compact-view .gf-pipe-recorder-preview  {
+	display: none;
+}

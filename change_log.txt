@@ -1,0 +1,26 @@
+### 1.4.0 | 2023-11-08
+- Fixed an issue where the pipe field video frame is displayed in the form editor when compact mode is enabled.
+- Fixed an issue where the label and the recording time setting of the pipe field are misaligned in the form editor.
+- Fixed an issue where PHP errors appear on the settings page when saving credentials.
+
+### 1.3 | 2020-09-28
+- Added support for Gravity Forms 2.5.
+
+
+### 1.2 | 2020-04-27
+- Added translations for Hebrew, Hindi, Japanese, and Turkish.
+- Updated Javascript files, stylesheets to use minified versions.
+- Updated link to Pipe account settings page.
+
+
+### 1.1 | 2018-04-05
+- Add GPL to plugin header.
+- Add security enhancements.
+- Add support for audio only embeds.
+- Fix incorrect URL of recorded videos.
+- Fix JSON string displaying instead of video URL when using {all_fields}.
+- Updated Plugin URI and Author URI to use https.
+
+
+### 1.0 | 2017-08-08
+- It's all new!
